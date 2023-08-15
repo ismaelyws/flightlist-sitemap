@@ -23,3 +23,7 @@ Travel blogger mentions of FlightList
 [10 Useful Flight Booking Hacks to Get Cheap Flights](https://jackroaming.com/10-useful-flight-booking-hacks-to-get-cheap-flights/)
 
 [10 Hacks for Booking Flights](https://worldofwanderlust.com/10-hacks-booking-flights/)
+
+[My Best Cheap Flight Hacks (Why Pay More?)](https://www.workremotelyliveremotely.com/post/best-cheap-flight-hacks)
+
+[Ultimate Guide To Find Cheap One Way Flights](https://travelwithbender.com/travel-thoughts/travel-tips/cheap-one-way-flights)
