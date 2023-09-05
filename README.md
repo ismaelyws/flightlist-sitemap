@@ -16,7 +16,7 @@ Travel blogger mentions of FlightList
 
 [10 Skyscanner Alternative: flight options on its platform to make it easy](https://www.aviationnepal.com/10-skyscanner-alternative-flight-options-on-its-platform-to-make-it-easy/)
 
-[Is Skyscanner Legit? 12 Best Skyscanner Alternatives To Book Travel](https://www.aviationnepal.com/10-skyscanner-alternative-flight-options-on-its-platform-to-make-it-easy/)
+[Is Skyscanner Legit? 12 Best Skyscanner Alternatives To Book Travel](https://fierytrippers.com/best-skyscanner-alternatives-to-book-travel/)
 
 [How to Use Google Flights -- from The Points Guy](https://community.ricksteves.com/travel-forum/transportation/how-to-use-google-flights-from-the-points-guy)
 
