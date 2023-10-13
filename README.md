@@ -27,3 +27,5 @@ Travel blogger mentions of FlightList
 [My Best Cheap Flight Hacks (Why Pay More?)](https://www.workremotelyliveremotely.com/post/best-cheap-flight-hacks)
 
 [Ultimate Guide To Find Cheap One Way Flights](https://travelwithbender.com/travel-thoughts/travel-tips/cheap-one-way-flights)
+
+[9 Secrets to Outsmart the Airlines and Find the Cheapest Flights Every Time](https://theatlasedit.com/how-to-find-cheap-flights/)
