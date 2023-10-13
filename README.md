@@ -9,6 +9,8 @@ FlightList Sitemap Links
 
 [Flightlist Interviews 7 Travel Experts On Why They Book One Way Flights](https://www.flightlist.io/flightlist-interviews-7-travel-experts-on-why-they-book-one-way-flights.php)
 
+XML Sitemap: [https://www.flightlist.io/sitemap.xml](https://www.flightlist.io/sitemap.xml)
+
 # FlightList Mentions
 Travel blogger mentions of FlightList
 
