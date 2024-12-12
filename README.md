@@ -9,6 +9,10 @@ FlightList Sitemap Links
 
 [Flightlist Interviews 7 Travel Experts On Why They Book One Way Flights](https://www.flightlist.io/flightlist-interviews-7-travel-experts-on-why-they-book-one-way-flights.php)
 
+[FlightList Press Room](https://www.flightlist.io/press.php)
+
+[FlightList Acquires SilkAir.com Domain](https://www.flightlist.io/silkair.php)
+
 XML Sitemap: [https://www.flightlist.io/sitemap.xml](https://www.flightlist.io/sitemap.xml)
 
 # FlightList Mentions
