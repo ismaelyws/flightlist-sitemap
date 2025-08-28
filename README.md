@@ -3,7 +3,7 @@ FlightList Sitemap Links
 
 [FlightList](https://www.flightlist.io)
 
-[FlightList Latest Searches](https://www.flightlist.io/searches.php)
+[FlightList Explore Flight Options](https://www.flightlist.io/flights/)
 
 [Why I Built FlightList & Solved My Own Problem](https://www.flightlist.io/why-i-built-flightlist-solved-my-own-problem.php)
 
