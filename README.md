@@ -35,3 +35,13 @@ Travel blogger mentions of FlightList
 [Ultimate Guide To Find Cheap One Way Flights](https://travelwithbender.com/travel-thoughts/travel-tips/cheap-one-way-flights)
 
 [9 Secrets to Outsmart the Airlines and Find the Cheapest Flights Every Time](https://theatlasedit.com/how-to-find-cheap-flights/)
+
+# FlightList Keywords
+Relevant keywords for flight searches
+
+[flights](https://www.flightlist.io)
+[flight](https://www.flightlist.io)
+[google flights search anywhere](https://www.flightlist.io)
+[cheap flights](https://www.flightlist.io)
+[flightscanner](https://www.flightlist.io)
+[flight finder](https://www.flightlist.io)
