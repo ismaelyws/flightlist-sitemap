@@ -39,9 +39,16 @@ Travel blogger mentions of FlightList
 # FlightList Keywords
 Relevant keywords for flight searches
 
-[flights](https://www.flightlist.io)
-[flight](https://www.flightlist.io)
-[google flights search anywhere](https://www.flightlist.io)
 [cheap flights](https://www.flightlist.io)
+
+[cheapest flights](https://www.flightlist.io)
+
+[flights](https://www.flightlist.io)
+
+[flight](https://www.flightlist.io)
+
+[google flights search anywhere](https://www.flightlist.io)
+
 [flightscanner](https://www.flightlist.io)
+
 [flight finder](https://www.flightlist.io)
