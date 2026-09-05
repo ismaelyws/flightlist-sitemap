@@ -52,3 +52,9 @@ Relevant keywords for flight searches
 [flightscanner](https://www.flightlist.io)
 
 [flight finder](https://www.flightlist.io)
+
+# FlightList Reviews
+
+[Trustpilot reviews](https://www.trustpilot.com/review/flightlist.io)
+
+[Reddit comments](https://www.reddit.com/search/?q=%22flightlist%22&type=comments&sort=new&iId=8704ddb8-eecf-4441-a9fe-e58c9b59c66e)
